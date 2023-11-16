@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connection">网络</string>
+    <string name="accessibility">辅助功能</string>
+    <string name="system">系统</string>
+    <string name="display">显示</string>
+    <string name="devices">设备</string>
+</resources>
